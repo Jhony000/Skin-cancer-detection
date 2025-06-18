@@ -4,6 +4,7 @@
 ![image alt](https://github.com/Jhony000/Skin-cancer-detection/blob/main/Screenshot%20(91).png)
 
 4.Build CNN model
+![image alt]()
 5.Train it at number of epoches for better accuracy 
 6.Confusion Matrix to show the precision,recall F1-Score, Accuracy 
 7.I get accuracy 91%.
