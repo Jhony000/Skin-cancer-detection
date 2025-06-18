@@ -10,3 +10,4 @@
 7.I get accuracy 91%.
 8.That means my model learn good from the images
 9.Deployment using Gradio 
+![image alt](https://github.com/Jhony000/Skin-cancer-detection/blob/main/Screenshot%20(330).png)
